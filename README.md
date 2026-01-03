@@ -32,8 +32,20 @@ shiny::runApp()
 
 ## Data Sources
 
-- Fishbein L, et al. (2017). Comprehensive molecular characterization of pheochromocytoma and paraganglioma. *Cancer Cell*. [PMID: 28162975](https://pubmed.ncbi.nlm.nih.gov/28162975/)
-- Flynn A, et al. (2021). The genomic landscape of phaeochromocytoma. *Nature Communications*. [PMID: 33479239](https://pubmed.ncbi.nlm.nih.gov/33479239/)
+- Fishbein L, et al. (2017). Comprehensive molecular characterization of pheochromocytoma and paraganglioma. *Cancer Cell*. [PMID: 28162975
+        
+        
+        
+        ](https://pubmed.ncbi.nlm.nih.gov/28162975
+        
+        /)
+- Flynn A, et al. (2025). Multi-omic analysis of SDHB-deficient pheochromocytomas and paragangliomas identifies metastasis and treatment-related molecular profiles. *Nature Communications*. [PMID: 40097403
+        
+        
+        
+        ](https://pubmed.ncbi.nlm.nih.gov/40097403/
+        
+        /)
 
 ## License
 
